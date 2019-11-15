@@ -1,0 +1,12 @@
+[
+  {
+    "key": "key_01",
+    "english": "Enter a notarisation reference number",
+    "arabic": "يرجى إدخال الرقم المرجعي للمُصدّقة"
+  },
+  {
+    "key": "mainActivity",
+    "english": "Main activity",
+    "arabic": "النشاط الرئيسي"
+  }
+]
