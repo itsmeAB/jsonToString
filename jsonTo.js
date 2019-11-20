@@ -1,1 +1,1 @@
-console.info('its working');
+console.info('script is running');
